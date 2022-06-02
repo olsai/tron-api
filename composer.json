@@ -24,7 +24,7 @@
         "php": "^7.4|^8.0",
         "comely-io/data-types": "dev-master",
         "guzzlehttp/guzzle": "^7.0",
-        "sc0vu/web3.php": "dev-master",
+        "hashwallet/web3": "dev-main",
         "kornrunner/secp256k1": "^0.1.2",
         "simplito/elliptic-php": "^1.0",
         "ext-json": "*",
