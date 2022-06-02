@@ -22,7 +22,7 @@
 
     "require": {
         "php": "^7.4|^8.0",
-        "comely-io/data-types": "dev-master",
+        "hashwallet/data-types": "dev-main",
         "guzzlehttp/guzzle": "^7.0",
         "hashwallet/web3": "dev-main",
         "kornrunner/secp256k1": "^0.1.2",
